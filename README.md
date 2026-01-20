@@ -42,6 +42,7 @@ The project demonstrates real-world backend and frontend integration using **Nod
 
 WanderLust/
 │
+
 ├── models/ # Mongoose schemas
 
 ├── routes/ # Express routes
