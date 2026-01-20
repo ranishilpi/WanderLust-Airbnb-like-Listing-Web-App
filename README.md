@@ -43,13 +43,21 @@ The project demonstrates real-world backend and frontend integration using **Nod
 WanderLust/
 │
 ├── models/ # Mongoose schemas
+
 ├── routes/ # Express routes
+
 ├── controllers/ # Business logic
+
 ├── views/ # EJS templates
+
 ├── public/ # CSS, JS, images
+
 ├── middleware/ # Custom middleware
+
 ├── utils/ # Utility functions
+
 ├── app.js # Main application file
+
 └── package.json
 
 
